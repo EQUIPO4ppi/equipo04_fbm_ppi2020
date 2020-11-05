@@ -1,6 +1,7 @@
 .body{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
+    padding: 15px;
     
 }
 
@@ -9,9 +10,23 @@
 
 }
 .lea{
-    background-color: cornflowerblue;
+    background-color: red;
 }
 
 .my-2{
-    color: aqua ;
+    color: red ;
+}
+.block1{
+ background-color: green;
+
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.text-center{
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
 }
