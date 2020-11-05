@@ -5,6 +5,7 @@ class Home extends React.Component{
     render() {
     return (
         <div className="o"> 
+        
         <main role="main" className="body">
       <center>
         <img src={logo}/>

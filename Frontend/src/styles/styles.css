@@ -1,20 +1,20 @@
 .body{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
-    padding: 15px;
-    
-}
+} 
 
 #root{
-    background-color: rebeccapurple;
+    background-color: white;
 
 }
 .lea{
     background-color: red;
 }
-
+.p {
+    color: crimson;
+}
 .my-2{
-    color: red ;
+    color: aqua;
 }
 .block1{
  background-color: green;
