@@ -30,3 +30,20 @@
     background-image: url('../images/fondo.jpg');
     background-size: cover;
 }
+
+.card-body{
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+    }
+.card-header{
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+}
+
+p{
+    color:white;
+}
+
+.btn{
+    color: white;
+}
