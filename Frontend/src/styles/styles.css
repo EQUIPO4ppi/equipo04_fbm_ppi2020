@@ -2,9 +2,10 @@
     background-image: url('../images/fondo.jpg');
     background-size: cover;
     
-    
+}
 
-    
+#root{
+    background-color: rebeccapurple;
 
 }
 .lea{
