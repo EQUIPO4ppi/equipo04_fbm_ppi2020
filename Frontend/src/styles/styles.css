@@ -1,17 +1,16 @@
 .body{
-    background-color: cornflowerblue;
-} 
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+    
+    
 
-#root{
-    background-color: black;
+    
 
 }
 .lea{
     background-color: cornflowerblue;
 }
-.p {
-    color: crimson;
-}
+
 .my-2{
-    color: aqua;
+    color: aqua ;
 }
