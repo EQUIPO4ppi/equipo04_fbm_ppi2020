@@ -1,6 +1,7 @@
 .body{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
+    
 } 
 
 #root{
@@ -25,8 +26,20 @@
     max-width: 330px;
     padding: 15px;
     margin: auto;
-}
+    
+    
+}    
+
 .text-center{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
+    color: yellow;
+    padding: 15px;
+ 
+
 }
+
+.mastfoot{
+    background-color: black;
+}
+
