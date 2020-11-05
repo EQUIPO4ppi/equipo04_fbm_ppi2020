@@ -4,8 +4,8 @@ import home from '../pages/home';
 import Card from '../pages/Card'
 import Notificacion from '../pages/notificacion'
 import Calendario from '../pages/Calendario'
-import Login from '../components/login';
-
+import Login from '../pages/login'
+import Sign from '../pages/signin'
 
 const App = () => {
     return (
@@ -17,6 +17,7 @@ const App = () => {
                 <Route path="/Notificaciones" component = {Notificacion} />
                 <Route path="/Calendario" component = {Calendario} />
                 <Route path="/Login" component = {Login} />
+                <Route path="/Sign" component = {Sign} />
                
             </Switch>
 

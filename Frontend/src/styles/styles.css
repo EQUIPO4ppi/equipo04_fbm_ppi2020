@@ -1,6 +1,7 @@
 .body{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
+    
 } 
 
 #root{
@@ -25,7 +26,10 @@
     max-width: 330px;
     padding: 15px;
     margin: auto;
-}
+    
+    
+}    
+
 .text-center{
     background-image: url('../images/fondo.jpg');
     background-size: cover;
@@ -45,5 +49,18 @@ p{
 }
 
 .btn{
+    color: white;
+}
+  
+
+.mastfoot{
+    background-color: black;
+}
+
+.h3{
+    color:white;
+}
+
+.checkbox{
     color: white;
 }

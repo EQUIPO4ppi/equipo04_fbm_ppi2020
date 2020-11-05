@@ -7,7 +7,7 @@ class Header extends React.Component{
         <nav class="my-2 my-md-0 mr-md-3">
           <a class="p-2 text-dark" href="/">Bienvenida</a>
           <a class="p-2 text-dark" href="Card">Menú principal</a>
-          <a class="p-2 text-dark" href="#">Support</a>
+          <a class="p-2 text-dark" href="Login">Inicio de sesión</a>
           <a class="p-2 text-dark" href="#">Pricing</a>
         </nav>
         <a class="btn btn-outline-primary" href="#">Registro</a>

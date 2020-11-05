@@ -1,25 +1,31 @@
 import React from 'react';
 import '../styles/styles.css'
 import logo from '../images/logo.png'
-import Header from '../components/Header_2'
-class Login extends React.Component{
+class Sign extends React.Component{
     render() {
     return (
       
      <body class="text-center"> 
         <form class="form-signin">
         <img class="mb-4" src={logo} alt width="100" height="100"/>
-            <h1 class="h3 mb-3 font-weight-normal">Inicio de sesión</h1>
+            <h1 class="h3 mb-3 font-weight-normal">Registro de usuario</h1>
+            <p>Ingresa un nombre de usuario</p>
             <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus></input>
+            <input type="email" id="inputEmail" class="form-control" placeholder="User name " required autofocus></input>
+            <p>Ingresa una contraseña</p>
             <label for="inputPassword" class="sr-only">Password</label>
             <input type="password" id="inputPassword" class="form-control" placeholder="Password" required></input>
+            <p>Confirma la contraseña</p>
+            <label for="inputPassword" class="sr-only">Password</label>
+            <input type="password" id="inputPassword" class="form-control" placeholder="Password" required></input>
+            <p>eres coordinador? ingresa tu código de verificación</p>
+            <input type="text" class="form-control" id="address2" placeholder="(opcional)"></input>
         <div class="checkbox mb-3">
             <label>
-            <input type="checkbox" value="remember-me"/> "recordarme"
+            <input type="checkbox" value="remember-me"/> "Acepto los terminos y condiciones"
             </label>
         </div>
-            <button class="btn btn-lg btn-primary btn-block" type="submit" href="Card"> Sign in</button>
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
             <p class="mt-5 mb-3 text-muted">© 2017-2020</p>
             <footer class="mastfoot mt-auto">
           <div class="inner">
@@ -44,4 +50,4 @@ class Login extends React.Component{
         }
         
     }
-        export default Login;
+        export default Sign;
