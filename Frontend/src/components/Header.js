@@ -8,9 +8,8 @@ class Header extends React.Component{
           <a class="p-2 text-dark" href="/">Bienvenida</a>
           <a class="p-2 text-dark" href="Card">Menú principal</a>
           <a class="p-2 text-dark" href="Login">Inicio de sesión</a>
-          <a class="p-2 text-dark" href="#">Pricing</a>
         </nav>
-        <a class="btn btn-outline-primary" href="#">Registro</a>
+        <a class="btn btn-outline-primary" href="Sign">Registro</a>
       </div>
     )
 }

@@ -19,7 +19,7 @@ class Login extends React.Component{
             <input type="checkbox" value="remember-me"/> "recordarme"
             </label>
         </div>
-            <button class="btn btn-lg btn-primary btn-block" type="submit" href="Card"> Sign in</button>
+            <a href="Card" class="btn btn-lg btn-primary btn-block" type="">Iniciar</a>
             <p class="mt-5 mb-3 text-muted">© 2017-2020</p>
             <footer class="mastfoot mt-auto">
           <div class="inner">

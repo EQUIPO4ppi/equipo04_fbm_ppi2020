@@ -10,7 +10,7 @@ class Header_2 extends React.Component{
           <a class="p-2 text-dark" href="Notificaciones">Notificaciones</a>
           <a class="p-2 text-dark" href="Calendario">Calendario</a>
         </nav>
-        <a class="btn btn-outline-primary" href="#">Registro</a>
+        
       </div>
 
     )

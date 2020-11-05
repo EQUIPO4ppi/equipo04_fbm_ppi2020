@@ -25,7 +25,7 @@ class Sign extends React.Component{
             <input type="checkbox" value="remember-me"/> "Acepto los terminos y condiciones"
             </label>
         </div>
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+            <a href="Login" class="btn btn-lg btn-primary btn-block" type="">Resgistrarse</a>
             <p class="mt-5 mb-3 text-muted">© 2017-2020</p>
             <footer class="mastfoot mt-auto">
           <div class="inner">
