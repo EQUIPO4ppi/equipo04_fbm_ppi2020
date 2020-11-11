@@ -44,13 +44,12 @@
     background-size: cover;
 }
 
+
+/* color textos */
 p{
-    color:white;
+    color: rgb(255, 251, 251);
 }
 
-.btn{
-    color: white;
-}
   
 
 .mastfoot{
@@ -64,3 +63,47 @@ p{
 .checkbox{
     color: white;
 }
+
+/*LEtras notificcaciones*/
+.media-body{
+    color: white(59, 58, 58);
+}
+
+/*color letras de las cards */
+.my-0{
+    color: white;
+}
+
+
+
+
+
+.body{
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+    
+} 
+
+.text-muted{
+
+    background-color: rgba(0,0,0,0.4);
+}
+.my-3{
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+    
+    
+    color: white;/*Fondo de las notificaciones y calendario*/
+}
+
+/*Color letras calendario y notificaciones*/
+.d-block{
+    color: white;
+}
+
+
+.text-gray-dark{
+    color: white;
+}
+
+

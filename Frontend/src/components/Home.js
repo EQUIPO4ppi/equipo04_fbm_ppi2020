@@ -11,7 +11,7 @@ class Home extends React.Component{
           <img src={logo}/>
           <h1 class="cover-heading">Bienvenidos a "mi barrio"</h1> 
           <p class="lead">
-          Una app para que los habitantes del barrio estemos siempre informados
+          Es un producto dirigido a los habitantes del barrio Florencia que desean obtener información acerca de los diferentes eventos que se dan por su localidad se llama Mi barrio, y es un aplicativo móvil que permitirá buscar y obtener información acerca de los eventos que se dieron o se darán en un futuro en el barrio Florencia, a diferencia de tener que estar buscando personas que nos brinden información acerca de dichos eventos, nuestro producto le permite a sus usuarios obtener información de forma muy sencilla y rápida, ahorrando tiempo y esfuerzo.
           </p>
           <footer class="mastfoot mt-auto">
           <div class="inner">

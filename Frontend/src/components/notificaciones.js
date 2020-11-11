@@ -5,6 +5,8 @@ import bob from '../images/bob.jpg'
 class Notificaciones extends React.Component{
     render() {
     return (
+
+     
       <div class="my-3 p-3 bg-white rounded shadow-sm">
       <h6 class="border-bottom border-gray pb-2 mb-0">Notificaciones</h6>
       <div class="media text-muted pt-3">
