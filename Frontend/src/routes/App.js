@@ -6,6 +6,7 @@ import Notificacion from '../pages/notificacion'
 import Calendario from '../pages/Calendario'
 import Login from '../pages/login'
 import Sign from '../pages/signin'
+import Carousel from '../components/Carousel';
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
                 <Route path="/Calendario" component = {Calendario} />
                 <Route path="/Login" component = {Login} />
                 <Route path="/Sign" component = {Sign} />
+                <Route path="/Carousel" component = {Carousel} />
                
             </Switch>
 
