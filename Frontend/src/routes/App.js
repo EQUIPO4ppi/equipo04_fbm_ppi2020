@@ -7,7 +7,8 @@ import Calendario from '../pages/Calendario'
 import Login from '../pages/login'
 import Sign from '../pages/signin'
 import Carousel from '../components/Carousel';
-import Home2 from '../components/Home2';
+import Home2 from '../pages/Home2';
+
 
 const App = () => {
     return (
@@ -21,7 +22,9 @@ const App = () => {
                 <Route path="/Login" component = {Login} />
                 <Route path="/Sign" component = {Sign} />
                 <Route path="/Carousel" component = {Carousel} />
-                <Route exact path="/Home2" component = {Home2} />
+                <Route path="/Home2" component = {Home2} />
+    
+           
                
             </Switch>
 
