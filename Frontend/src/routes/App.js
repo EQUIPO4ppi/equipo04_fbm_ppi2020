@@ -21,7 +21,7 @@ const App = () => {
                 <Route path="/Login" component = {Login} />
                 <Route path="/Sign" component = {Sign} />
                 <Route path="/Carousel" component = {Carousel} />
-                <Route exact path="/Home2" component = {Home2} />
+                <Route path="/Home2" component = {Home2} />
                
             </Switch>
 

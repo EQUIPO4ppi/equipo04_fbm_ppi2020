@@ -1,18 +1,18 @@
 import React from 'react';
 import Carousel from '../components/Carousel';
-import Header_2 from '../components/Header_2';
-import Home2 from '../components/Home2'
+import Header from '../components/Header_2'
+import Hom from '../components/Home2'
 import '../styles/styles.css'
 
 
-export default function home(){
+export default function home2(){
     
     return(
         <>
       
-      <Header_2/>
+      <Header/>
       <Carousel/>
-      <Home2/>
+      <Hom/>
       
         </>
 
