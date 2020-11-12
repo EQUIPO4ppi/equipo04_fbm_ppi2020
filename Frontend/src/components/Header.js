@@ -6,7 +6,7 @@ class Header extends React.Component{
         <h5 class="my-01 mr-md-auto font-weight-normal">Mi barrio</h5>
         <nav class="my-2 my-md-0 mr-md-3">
           <a class="p-2 text-dark" href="/">Bienvenida</a>
-          <a class="p-2 text-dark" href="Card">Menú principal</a>
+       
           <a class="p-2 text-dark" href="Login">Inicio de sesión</a>
         </nav>
         <a class="btn btn-outline-primary" href="Sign">Registro</a>

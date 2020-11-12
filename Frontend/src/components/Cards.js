@@ -50,6 +50,7 @@ class Cards extends React.Component{
             <button type="button" className="btn btn-lg btn-block2 btn-outline-primary">Me interesa</button>
           </div>
         </div>
+      
        
       
           </div>
