@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/styles.css'
 import logo from '../images/logo.png'
+import logo from '../images/logo.png'
 class Home2 extends React.Component{
     render() {
     return (
