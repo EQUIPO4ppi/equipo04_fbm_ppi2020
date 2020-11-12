@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-class Header_2 extends React.Component{
+class Head extends React.Component{
     render(){ 
     return (
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3  border-bottom box-shadow">
@@ -16,4 +16,4 @@ class Header_2 extends React.Component{
     )
 }
 }
-export default Header_2;
+export default Head;
