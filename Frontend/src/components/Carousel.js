@@ -16,7 +16,7 @@ class Carousel extends React.Component{
     <div class="container">
     <div class="carousel-caption text-left">
     <h1>Example headline.</h1>
-    <p>the game JAJAJAJAJA</p>
+    <p>Random image</p>
         </div>
         </div>
     </div>
@@ -27,7 +27,7 @@ class Carousel extends React.Component{
     <div class="container">
     <div class="carousel-caption">
     <h1>Another example headline.</h1>
-    <p>respiracion automatica desactivada</p>
+    <p>Sample text</p>
     </div>
         </div>     
     </div>
@@ -37,7 +37,7 @@ class Carousel extends React.Component{
     </svg>
     <div class="container">
     <div class="carousel-caption text-right">
-    <h1>One more for good measure.</h1>
+    <h1>sample image.</h1>
     <p>…</p>
     </div>
     </div>
