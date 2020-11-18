@@ -1,8 +1,8 @@
 const express = require('express');// declaración
 const app = express();//constructor de la clase Express
-const routes = require('./routes/routes');//Se definen las otras rutas, Crud
+//const routes = require('./routes/routes');//Se definen las otras rutas, Crud
 const usuario_habitante = require('./routes/usuarioh');//crud
-const prueba = require('./routes/prueba');
+
 const evento = require('./routes/evento');
 const calificacion = require('./routes/calificacion');
 //const colegios = require('./routes/colegios');//crud
