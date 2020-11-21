@@ -8,6 +8,7 @@ import Login from '../pages/login'
 import Sign from '../pages/signin'
 import Carousel from '../components/Carousel';
 import Home2 from '../pages/Home2';
+import Publicar from '../pages/publish';
 
 
 const App = () => {
@@ -23,6 +24,7 @@ const App = () => {
                 <Route path="/Sign" component = {Sign} />
                 <Route path="/Carousel" component = {Carousel} />
                 <Route path="/Home2" component = {Home2} />
+                <Route path="/Publicar" component = {Publicar} />
     
            
                
