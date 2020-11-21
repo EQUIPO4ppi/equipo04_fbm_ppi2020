@@ -10,7 +10,7 @@ class Publicar extends React.Component{
         <body class="text-center"> 
         <form class="form-signin">
         <img class="mb-4" src={user} alt width="100" height="100"/>
-            <h1 class="h3 mb-3 font-weight-normal">Mateo Maricas</h1>
+            <h1 class="h3 mb-3 font-weight-normal">Mateo Arias</h1>
             <textarea class="form-control" rows="3" placeholder="¿tienes algún evento en mente?" ></textarea>
             <strong class="d-block text-gray-dark">Inserte fotos / videos del evento</strong>
         <div class="media text-muted pt-3">   
