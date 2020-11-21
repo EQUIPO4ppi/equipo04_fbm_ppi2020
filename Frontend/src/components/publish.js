@@ -31,7 +31,7 @@ class Publicar extends React.Component{
         <img class="mb-4" src={porno} alt width="70" height="70"/>
         <input type="text" name="nombredelacaja"></input>
         </div>
-            <a href="Card" class="btn btn-lg btn-primary btn-block" type="">Publicar </a>
+            <a href="Card2" class="btn btn-lg btn-primary btn-block" type="">Publicar </a>
             <p class="mt-5 mb-3 text-muted">© 2017-2020</p>
             <footer class="mastfoot mt-auto">
           <div class="inner">
