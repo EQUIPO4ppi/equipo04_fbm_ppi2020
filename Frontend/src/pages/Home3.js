@@ -1,7 +1,7 @@
 import React from 'react';
 import Carousel from '../components/Carousel';
-import Header2 from '../components/Header2'
-import Home2 from '../components/Home2'
+import Header3 from '../components/Header3';
+import Home2 from '../components/Home3'
 import '../styles/styles.css'
 
 
@@ -11,7 +11,7 @@ export default function home(){
     return(
         <>
       
-      <Header2/>
+      <Header3/>
       <Carousel/>
       <Home2/>
       

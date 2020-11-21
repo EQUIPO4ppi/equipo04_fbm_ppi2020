@@ -20,7 +20,7 @@ class Login extends React.Component{
             </label>
         </div>
             <a href="Card" class="btn btn-lg btn-primary btn-block" type="">Iniciar</a>
-            <a href="Card" class="btn btn-lg btn-primary btn-block" type="">Soy admin</a>
+            <a href="Card2" class="btn btn-lg btn-primary btn-block" type="">Soy admin</a>
             <p class="mt-1 mb-3 text-muted">© 2020-2020</p>
             <footer class="mastfoot mt-auto">
           <div class="inner">

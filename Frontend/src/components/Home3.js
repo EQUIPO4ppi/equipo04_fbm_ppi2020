@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/styles.css'
 import logo from '../images/logo.png'
-class Home2 extends React.Component{
+class Home3 extends React.Component{
     render() {
     return (
         
@@ -43,4 +43,4 @@ class Home2 extends React.Component{
 }
 
 }
-export default Home2;
+export default Home3;
