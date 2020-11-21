@@ -1,4 +1,9 @@
 import React from 'react';
+import mondongo from '../images/mondongo.jpg'
+import bob from '../images/bob.jpg'
+import bro from '../images/bro.jpg'
+import kinyon from '../images/kinyon.jpg'
+import reposao from '../images/reposao.png'
 class Carousel extends React.Component{
     render() {
     return (
