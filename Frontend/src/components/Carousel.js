@@ -20,8 +20,8 @@ class Carousel extends React.Component{
     </svg>
     <div class="container">
     <div class="carousel-caption text-left">
-    <h1>Example headline.</h1>
-    <p>Random image</p>
+    <h1>Torneo de Futbol </h1>
+    <p>Sede florencia</p>
         </div>
         </div>
     </div>
@@ -31,8 +31,8 @@ class Carousel extends React.Component{
     </svg> 
     <div class="container">
     <div class="carousel-caption">
-    <h1>Another example headline.</h1>
-    <p>Sample text</p>
+    <h1>Vacunación de mascotas</h1>
+    <p>Sede florencia</p>
     </div>
         </div>     
     </div>
@@ -42,8 +42,8 @@ class Carousel extends React.Component{
     </svg>
     <div class="container">
     <div class="carousel-caption text-right">
-    <h1>sample image.</h1>
-    <p>…</p>
+    <h1>Venta de comidas</h1>
+    <p>Iglesia de Florencia</p>
     </div>
     </div>
     </div>
