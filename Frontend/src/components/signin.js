@@ -30,10 +30,9 @@ class Sign extends React.Component{
             <footer class="mastfoot mt-auto">
           <div class="inner">
               <p>
-                "quienes somos"
-                <a href="https://getbootstrap.com/">Bootstrap</a>
-                ", si"
-                <a href="https://twitter.com/mdo">@mdo</a>
+              Iniciar sesión 
+                <a href="login"> Inicio de sesión </a>
+              
               </p>
 
 
